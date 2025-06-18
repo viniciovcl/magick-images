@@ -3,7 +3,7 @@
 
 
 <p align="left">
-Usando magick para criar um banner.
+Usando magick para criar imagens.
 </p>
 
 
